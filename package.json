@@ -1,0 +1,12 @@
+{
+  "name": "newbie-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "nft": "sass --watch ./nft-preview-card-component-main/scss/styles.scss ./nft-preview-card-component-main/css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
